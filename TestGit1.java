@@ -4,6 +4,7 @@ public class TestGit1 {
 	
 	public void methodOne() {
 		System.out.println("User lsathish98 Git Practice");
+		System.out.println("User lsathish98 Git Practice for branch");
 
 	}
 	
