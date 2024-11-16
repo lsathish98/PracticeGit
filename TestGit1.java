@@ -6,7 +6,7 @@ public class TestGit1 {
 		System.out.println("User lsathish98 Git Practice");
 		System.out.println("User lsathish98 Git Practice for branch");
 		System.out.println("User lsathish98 Git Practice for branch 2");
-		System.out.println("Nothing should exist");
+		System.out.println("Only Master should exist");
 
 	}
 	
