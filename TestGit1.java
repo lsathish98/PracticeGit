@@ -6,9 +6,13 @@ public static int add(int a, int b){
 	int val = a+b;
 	return val
 }
-	
-	public static void main(String[] args) {
+public static int add(int a, int b){
+	int val = a-b;
+	return val
+}
+public static void main(String[] args) {
 		System.out.println(add(5,10));
+		System.out.println(sub(20,15));
 		
 	}
 
