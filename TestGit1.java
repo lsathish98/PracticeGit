@@ -10,7 +10,7 @@ public static int sub(int a, int b){
 	int val = a-b;
 	return val
 }
-public static int mul(int a, int b){
+public static int multiply(int a, int b){
 		int val = a*b;
 		return val
 }
