@@ -8,7 +8,9 @@ public static int add(int a, int b){
 }
 	
 	public static void main(String[] args) {
-		System.out.println(add(5,10));
+		TestGit1 t=new TestGit1();
+		t.methodOne();
+				
 		
 	}
 
