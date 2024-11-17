@@ -6,15 +6,15 @@ public static int add(int a, int b){
 	int val = a+b;
 	return val
 }
-public static int add(int a, int b){
+public static int sub(int a, int b){
 	int val = a-b;
 	return val
 }
-	public static int mul(int a, int b){
+public static int mul(int a, int b){
 		int val = a*b;
 		return val
-	}
-	public static void main(String[] args) {
+}
+public static void main(String[] args) {
 		System.out.println(add(5,10));
 		System.out.println(sub(20,15));
 		System.out.println(mul(20,15));
