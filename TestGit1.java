@@ -10,8 +10,8 @@ public static int sub(int a, int b){
 	int val = a-b;
 	return val
 }
-public static int multiplication(int a, int b){
-		int val = a*b;
+public static int mul(int c, int d){
+		int val = c*d;
 		return val
 }
 public static void main(String[] args) {
